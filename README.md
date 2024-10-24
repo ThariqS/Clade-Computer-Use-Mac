@@ -1,6 +1,6 @@
 # Mac - Claude Computer Demo
 
-This is a Mac tray app for testing out Claude Computer. Requires an Anthropic API key.
+A Mac tray app for testing out Claude Computer. Requires an Anthropic API key.
 
 ## To Get Started
 
